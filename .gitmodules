@@ -1,0 +1,6 @@
+[submodule "hw/spinal/MySpinalHardware"]
+	path = hw/spinal/MySpinalHardware
+	url = https://github.com/wel97459/MySpinalHardware
+[submodule "hw/spinal/DSPs_SpinalHDL"]
+	path = hw/spinal/DSPs_SpinalHDL
+	url = https://github.com/wel97459/DSPs_SpinalHDL
